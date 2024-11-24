@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dcaab9b-9caa-493c-a589-63747bace23b" name="Changes" comment="" />
+    <list default="true" id="6dcaab9b-9caa-493c-a589-63747bace23b" name="Changes" comment="RandomUserReader class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/UserDeserializer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +49,46 @@
       <option name="presentableId" value="Default" />
       <updated>1732455946603</updated>
     </task>
+    <task id="LOCAL-00001" summary="gson and jsoup dependencies">
+      <option name="closed" value="true" />
+      <created>1732455978535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732455978535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="User record">
+      <option name="closed" value="true" />
+      <created>1732456018731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732456018731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UserReader interface">
+      <option name="closed" value="true" />
+      <created>1732456053660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732456053660</updated>
+    </task>
+    <task id="LOCAL-00004" summary="RandomUserReader class">
+      <option name="closed" value="true" />
+      <created>1732456263372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732456263372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gson and jsoup dependencies" />
+    <MESSAGE value="User record" />
+    <MESSAGE value="UserReader interface" />
+    <MESSAGE value="RandomUserReader class" />
+    <option name="LAST_COMMIT_MESSAGE" value="RandomUserReader class" />
   </component>
 </project>

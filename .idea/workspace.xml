@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dcaab9b-9caa-493c-a589-63747bace23b" name="Changes" comment="RandomUserReader class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/UserDeserializer.java" afterDir="false" />
+    <list default="true" id="6dcaab9b-9caa-493c-a589-63747bace23b" name="Changes" comment="RandomUserGetResponse record">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/UserAdapter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="software.ulpgc.kata5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +86,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732456263372</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="UserDeserializer interface">
+      <option name="closed" value="true" />
+      <created>1732456307055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732456307055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="RandomUserDeserializer class">
+      <option name="closed" value="true" />
+      <created>1732456389902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732456389902</updated>
+    </task>
+    <task id="LOCAL-00007" summary="RandomUserGetResponse record">
+      <option name="closed" value="true" />
+      <created>1732456605243</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732456605243</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -89,6 +118,9 @@
     <MESSAGE value="User record" />
     <MESSAGE value="UserReader interface" />
     <MESSAGE value="RandomUserReader class" />
-    <option name="LAST_COMMIT_MESSAGE" value="RandomUserReader class" />
+    <MESSAGE value="UserDeserializer interface" />
+    <MESSAGE value="RandomUserDeserializer class" />
+    <MESSAGE value="RandomUserGetResponse record" />
+    <option name="LAST_COMMIT_MESSAGE" value="RandomUserGetResponse record" />
   </component>
 </project>
